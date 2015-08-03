@@ -1,0 +1,13 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Hero Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Hero/Hero Dark.tmTheme",
+	"indent_guide_options":
+	[
+	    "draw_normal",
+	    "draw_active"
+	]
+}
