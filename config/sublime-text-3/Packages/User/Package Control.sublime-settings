@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"Package Control",
 		"Theme - Hero"
 	]
