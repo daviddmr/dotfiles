@@ -22,7 +22,7 @@ ZSH_THEME="steeef"
 
 # Uncomment the following line to disable colors in ls.
 # DISABLE_LS_COLORS="true"
-
+ZSH_TMUX_AUTOSTART=true
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
 
@@ -49,7 +49,7 @@ ZSH_THEME="steeef"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git nvm)
+plugins=(git nvm tmux)
 
 # User configuration
 
