@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "~/.nvm/versions/node/v5.0.0/bin/node ${file}",
+  "selector" : "source.js"
+}
