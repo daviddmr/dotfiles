@@ -96,3 +96,4 @@ inoremap <C-U> <C-G>u<C-U>
 " vim:set ft=vim et sw=2:
 
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+set runtimepath^=~/.vim/bundle/vim-fugitive
